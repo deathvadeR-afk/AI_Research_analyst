@@ -1,0 +1,23 @@
+# PDF Processing
+PyPDF2==3.0.1
+pdfplumber==0.10.2
+
+# Data Analysis
+pandas==2.1.3
+numpy==1.26.2
+scikit-learn==1.3.2
+
+# NLP
+nltk==3.8.1
+spacy==3.7.2
+transformers==4.35.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Financial Analysis
+yfinance==0.2.33
+
+# Frontend
+streamlit==1.29.0
