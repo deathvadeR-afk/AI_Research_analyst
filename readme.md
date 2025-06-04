@@ -68,6 +68,9 @@ python -m venv venv
 ```bash
 pip install -r requirements.txt
 ```
+4. Download required NLTK resources:
+```bash
+python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet'); nltk.download('vader_lexicon')"
 
 ## Usage
 
